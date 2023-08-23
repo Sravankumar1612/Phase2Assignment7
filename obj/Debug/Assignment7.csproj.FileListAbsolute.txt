@@ -1,0 +1,8 @@
+E:\Dotnet\Phase2\Assignments\Assignment7\Assignment7\bin\Debug\Assignment7.exe.config
+E:\Dotnet\Phase2\Assignments\Assignment7\Assignment7\bin\Debug\Assignment7.exe
+E:\Dotnet\Phase2\Assignments\Assignment7\Assignment7\bin\Debug\Assignment7.pdb
+E:\Dotnet\Phase2\Assignments\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.AssemblyReference.cache
+E:\Dotnet\Phase2\Assignments\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.SuggestedBindingRedirects.cache
+E:\Dotnet\Phase2\Assignments\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.CoreCompileInputs.cache
+E:\Dotnet\Phase2\Assignments\Assignment7\Assignment7\obj\Debug\Assignment7.exe
+E:\Dotnet\Phase2\Assignments\Assignment7\Assignment7\obj\Debug\Assignment7.pdb
